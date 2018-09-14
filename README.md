@@ -16,3 +16,7 @@ mkdir
 rmdir
 man
 ```
+
+jika anda ingin memberi extra parameter cobalah memakan "man" space "command". contohnya "man ls"
+Anda bisa memperdalam pengetahuan anda tentang linuk command line dengan mencari di google.
+Contohnya search untuk "cheat seat Bash pdf"
