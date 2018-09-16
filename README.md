@@ -21,7 +21,7 @@ jika anda ingin memberi extra parameter cobalah memakan "man" space "command". c
 Anda bisa memperdalam pengetahuan anda tentang linuk command line dengan mencari di google.
 Contohnya search untuk "cheat seat Bash pdf"
 
-#2.2.MarkDown
+# 2.2.MarkDown
 Membuat readme di github proyek memakai MarkDown format.
 Cara menggunakan MarkDown format bisa di lihat melalui link ini:
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
